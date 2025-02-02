@@ -42,7 +42,7 @@ pip install -r requirements.txt  # Install dependencies
 Convert your script into an executable so it can be easily run from the CLI:
 
 ```bash
-pyinstaller --onefile --name gemini-cli main.py
+pyinstaller --onefile --name gemini-cli gemini.py
 ```
 
 This will generate an executable file inside the `dist` directory.
@@ -68,7 +68,7 @@ cd dist
 
 ## 🛠 Troubleshooting
 
-- **Permission denied while running the executable?**  
+- **Permission denied while running the executable(NEED TO DO THIS IN MAC/LINUX!)?**  
   Try giving it execution permissions:
   ```bash
   chmod +x gemini-cli
