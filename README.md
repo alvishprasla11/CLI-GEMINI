@@ -10,8 +10,8 @@ Welcome to the **Gemini CLI App**, a simple and powerful command-line tool that 
 First, clone this repository to your local machine:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/alvishprasla11/CLI-GEMINI.git
+cd CLI-GEMINI
 ```
 
 ### 2️⃣ Set Up Environment Variables
