@@ -21,7 +21,7 @@ Create a new `.env` file in the root directory of the project:
 touch .env
 ```
 
-Then, obtain an **API Key** from [Gemini](https://gemini.google.com) and add it to your `.env` file:
+Then, obtain an **API Key** from [Gemini](https://aistudio.google.com/apikey) and add it to your `.env` file:
 
 ```
 GEMINI_API_KEY=your_api_key_here
